@@ -137,7 +137,7 @@ th { background: var(--bg-2); }
 .site-footer p { margin: 0; }
 .disclaimer { flex-basis: 100%; font-size: 0.85rem; }
 
-.notfound { text-align: center; padding: 80px 0; }
+.notfound { text-align: center; padding: 80px 16px; }
 .notfound img { margin: 0 auto 24px; width: 120px; height: 120px; border-radius: 50%; }
 
 @media (max-width: 720px) {
